@@ -1,0 +1,11 @@
+2519103005,AAA027-C02,Proteobacteria,Betaproteobacteria,Burkholderiales,betII,Pnec,PnecC,Sarah L R Stevens followed JGI QC protocol and uploaded new version in IMG,1004436,Gs0015918,Gb0025335 ,Gp0025335,Ga0000739
+2524023174,AAA027-I06,Proteobacteria,Betaproteobacteria,Burkholderiales,betI,betI-A,Lhab-A1,Sarah L R Stevens followed JGI QC protocol and uploaded new version in IMG,1004445,Gs0015918,Gb0019155 ,Gp0019155,Ga0000742
+2524023176,AAA027-K21,Proteobacteria,Betaproteobacteria,Burkholderiales,betIII,betIII-A,betIII-A1,Sarah L R Stevens followed JGI QC protocol and uploaded new version in IMG,1004451,Gs0015918,Gb0025330 ,Gp0025330,Ga0000744
+2582580515,MEint.metabat.10739,Proteobacteria,Betaproteobacteria,Burkholderiales,,,,,,Gs0063444,,,Ga0047931
+2582580538,MEint.metabat.16806,Proteobacteria,Betaproteobacteria,Burkholderiales,,,,,,Gs0063444,,,Ga0047954
+2582580633,TBepi.metabat.3838,Proteobacteria,Betaproteobacteria,Burkholderiales,,,,,,Gs0063444,,,Ga0048049
+2582580700,TBhypo.metabat.5891,Proteobacteria,Betaproteobacteria,Burkholderiales,,,,,,Gs0063444,,,Ga0048117
+2619618801,AAA027-C02 (screened),Proteobacteria,Betaproteobacteria,Burkholderiales,betII,Pnec,PnecC,"Joshua J Hamilton ran through ProDeGe using classification at ""Order"" level",1004436,Gs0015918,Gb0025335 ,Gp0025335,Ga0073394
+2619618802,AAA027-I06 (screened),Proteobacteria,Betaproteobacteria,Burkholderiales,betI,betI-A,Lhab-A1,"Joshua J Hamilton ran through ProDeGe using classification at ""Order"" level",1004445,Gs0015918,Gb0019155 ,Gp0019155,Ga0073396
+2739367610,Limnohabitans bacterium JGI_MCM14ME290 (unscreened),Proteobacteria,Betaproteobacteria,Burkholderiales,betI,betI-A,Lhab-A1,None,1133149,Gs0129090,,Gp0216628,Ga0191969 
+2739367611,Limnohabitans bacterium JGI_MCM14ME290 (contamination screened),Proteobacteria,Betaproteobacteria,Burkholderiales,betI,betI-A,Lhab-A1,Auto decontamination with ProDeGe and CrossBlock,1133149,Gs0129090,,Gp0216628,Ga0191207 
