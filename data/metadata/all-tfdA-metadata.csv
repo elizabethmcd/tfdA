@@ -901,6 +901,7 @@ GCA_900475665.1,PRJEB6403,SAMEA3923586,Bordetella pertussis,Betaproteobacteria,I
 GCA_900492145.1,PRJEB27048,SAMEA4700352,Bordetella pertussis,Betaproteobacteria,Isolate,FR5810,Complete,2018-11-27T00:00:00Z,Reference,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/492/145/GCA_900492145.1_FR5810
 GCA_900637265.1,PRJEB6403,SAMEA4384063,Achromobacter insolitus,Betaproteobacteria,Isolate,NCTC13520,Complete,2018-12-19T00:00:00Z,Reference,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/637/265/GCA_900637265.1_50432_C01
 GCA_900637995.1,PRJEB6403,SAMEA101167918,Bordetella bronchiseptica,Betaproteobacteria,Isolate,NCTC8344,Complete,2018-12-19T00:00:00Z,Reference,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/637/995/GCA_900637995.1_54466_G01
+GCA_003122745.2,PRJNA380351,SAMN06641776,"Mycobacterium avium subsp. hominissuis	strain=MAH11",Actinobacteria,Isolate,MAH11,Complete,2/19/19,Reference,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/003/122/745/GCA_003122745.2_ASM312274v2
 GCA_901472525.1,PRJEB6403,SAMEA3178015,Bordetella pertussis,Betaproteobacteria,Isolate,NCTC13251,Complete,2019-05-10T00:00:00Z,Reference,ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/901/472/525/GCA_901472525.1_35377_A02
 2519103005,NA,NA,Betaproteobacteria,Betaproteobacteria,Freshwater,NA,NA,NA,MO-McMahon,NA
 2524023174,NA,NA,Betaproteobacteria,Betaproteobacteria,Freshwater,NA,NA,NA,MO-McMahon,
