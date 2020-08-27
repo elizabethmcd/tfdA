@@ -1,3 +1,9 @@
+data/rawData/*
+tfdA.Rproj
+.RData
+.Rhistory
+.Rproj
 figs/
 .DS_Store
 data/genomes/*
+.Rproj.user

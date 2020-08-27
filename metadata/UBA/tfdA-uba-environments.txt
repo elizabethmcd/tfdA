@@ -1,0 +1,54 @@
+UBA981	COGITO 998_met_01 Sequencing	Pelagic Microbial community sample from North Sea - COGITO 998_met_01 Metagenome
+UBA971	Metagenome of the 0.22 micron fraction from Freshwater Reservoir Amadorio	Freshwater Reservoir Amadorio Metagenome
+UBA830	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA815	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA723	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA1330	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA1326	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA1324	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA1170	Shotgun sequencing of environmental sample: Sample P00635	New York City MTA subway samples Metagenome
+UBA1582	Shotgun sequencing of environmental sample: Sample P00236	New York City MTA subway samples Metagenome
+UBA1479	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for DNA viruses
+UBA2121	Shotgun sequencing of environmental sample: Sample P01495	New York City MTA subway samples Metagenome
+UBA2008	Metagenome from the Beebe near bottom background at depth 4946m	Mid Cayman Rise Metagenome
+UBA1921	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for DNA viruses
+UBA1916	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for DNA viruses
+UBA2543	Central Baltic Surface Water Metagenome	Baltic Sea Surface Water Metagenome
+UBA2525	Metagenome from the background ocean water at depth 4950m	Mid Cayman Rise Metagenome
+UBA2491	Metagenome of microbial community: Kitchen Counter: Sample Kitchen_counter-04a-day4	Home Microbiome Metagenomes
+UBA2470	Lake Lanier Metagenome, LL_1007B	Lake Lanier Metagenome
+UBA2995	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA2237	Lake Lanier Metagenome LL_1011A	Lake Lanier Metagenome
+UBA2973	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA2966	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA2965	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA2667	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for DNA viruses
+UBA2652	Lake Lanier Metagenome LL_1007A	Lake Lanier Metagenome
+UBA2647	Lake Lanier Metagenome LL_1007A	Lake Lanier Metagenome
+UBA3119	Central Baltic Surface Water Metagenome	Baltic Sea Surface Water Metagenome
+UBA3031	Central Baltic Surface Water Metagenome	Baltic Sea Surface Water Metagenome
+UBA3504	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA3502	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA3470	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA4031	Central Baltic Surface Water Metagenome	Baltic Sea Surface Water Metagenome
+UBA4006	Mind Oil Sands illumina	Hydrocarbon Metagenome
+UBA4615	Metagenome of the 5.0 micron microbial fraction of a freshwater reservoir	Freshwater Reservoir Amadorio Metagenome
+UBA4457	COGITO 998_met_08 Sequencing	Pelagic Microbial community sample from North Sea - COGITO 998_met_08 Metagenome
+UBA4455	COGITO 998_met_08 Sequencing	Pelagic Microbial community sample from North Sea - COGITO 998_met_08 Metagenome
+UBA4492	Biocathode Biofilm Metagenome	Biocathode biofilm Metagenome
+UBA5216	May 2011 Amazon River 2.0 - 297um Metagenome from Obidos (RCM38)	Amazon Continuum Metagenomes
+UBA5101	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for DNA viruses
+UBA6159	PDSYNTPWS illumina: WIP-PD_SYN_TP_WS_002_003_071511 WIP surface sample	Hydrocarbon Metagenome
+UBA5986	Shotgun sequencing of environmental sample: Sample P00302	New York City MTA subway samples Metagenome
+UBA6620	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6615	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6608	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6605	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6544	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6967	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA6930	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA7380	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA7326	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA7314	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
+UBA7619	Shotgun sequencing of environmental sample: Sample P01533	New York City MTA subway samples Metagenome
+UBA7893	Illumina HiSeq 2000 paired end sequencing; Marine metagenome.	Shotgun Sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes and large DNA viruses
