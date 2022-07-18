@@ -1,0 +1,176 @@
+##sequence-region AY365053.1 1 87688
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=264198
+AY365053.1	Genbank	region	1	87688	.	+	.	ID=AY365053.1:1..87688;Dbxref=taxon:264198;Is_circular=true;Name=pJP4;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=pJP4;strain=JMP134
+AY365053.1	Genbank	gene	165	818	.	-	.	ID=gene-traN;Name=traN;gbkey=Gene;gene=traN;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	165	818	.	-	0	ID=cds-AAR31019.1;Parent=gene-traN;Dbxref=NCBI_GP:AAR31019.1;Name=AAR31019.1;gbkey=CDS;gene=traN;product=TraN;protein_id=AAR31019.1;transl_table=11
+AY365053.1	Genbank	gene	847	1194	.	-	.	ID=gene-traO;Name=traO;gbkey=Gene;gene=traO;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	847	1194	.	-	0	ID=cds-AAR31020.1;Parent=gene-traO;Dbxref=NCBI_GP:AAR31020.1;Name=AAR31020.1;gbkey=CDS;gene=traO;product=TraO;protein_id=AAR31020.1;transl_table=11
+AY365053.1	Genbank	gene	1365	2396	.	-	.	ID=gene-kfrA;Name=kfrA;gbkey=Gene;gene=kfrA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	1365	2396	.	-	0	ID=cds-AAR31021.1;Parent=gene-kfrA;Dbxref=NCBI_GP:AAR31021.1;Name=AAR31021.1;gbkey=CDS;gene=kfrA;product=transcriptional regulator;protein_id=AAR31021.1;transl_table=11
+AY365053.1	Genbank	gene	2575	3624	.	-	.	ID=gene-korB;Name=korB;gbkey=Gene;gene=korB;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	2575	3624	.	-	0	ID=cds-AAR31022.1;Parent=gene-korB;Dbxref=NCBI_GP:AAR31022.1;Name=AAR31022.1;gbkey=CDS;gene=korB;product=transcriptional repressor;protein_id=AAR31022.1;transl_table=11
+AY365053.1	Genbank	gene	3621	4703	.	-	.	ID=gene-incC1;Name=incC1;gbkey=Gene;gene=incC1;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	3621	4703	.	-	0	ID=cds-AAR31023.1;Parent=gene-incC1;Dbxref=NCBI_GP:AAR31023.1;Name=AAR31023.1;gbkey=CDS;gene=incC1;product=inclusion membrane protein;protein_id=AAR31023.1;transl_table=11
+AY365053.1	Genbank	gene	3621	4385	.	-	.	ID=gene-incC2;Name=incC2;gbkey=Gene;gene=incC2;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	3621	4385	.	-	0	ID=cds-AAR31024.1;Parent=gene-incC2;Dbxref=NCBI_GP:AAR31024.1;Name=AAR31024.1;gbkey=CDS;gene=incC2;product=inclusion membrane protein;protein_id=AAR31024.1;transl_table=11
+AY365053.1	Genbank	gene	4382	4690	.	-	.	ID=gene-korA;Name=korA;gbkey=Gene;gene=korA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	4382	4690	.	-	0	ID=cds-AAR31025.1;Parent=gene-korA;Dbxref=NCBI_GP:AAR31025.1;Name=AAR31025.1;gbkey=CDS;gene=korA;product=transcriptional repressor;protein_id=AAR31025.1;transl_table=11
+AY365053.1	Genbank	gene	4797	5126	.	-	.	ID=gene-kleF;Name=kleF;gbkey=Gene;gene=kleF;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	4797	5126	.	-	0	ID=cds-AAR31026.1;Parent=gene-kleF;Dbxref=NCBI_GP:AAR31026.1;Name=AAR31026.1;gbkey=CDS;gene=kleF;product=stable inheritance protein;protein_id=AAR31026.1;transl_table=11
+AY365053.1	Genbank	gene	5128	5511	.	-	.	ID=gene-kleE;Name=kleE;gbkey=Gene;gene=kleE;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	5128	5511	.	-	0	ID=cds-AAR31027.1;Parent=gene-kleE;Dbxref=NCBI_GP:AAR31027.1;Name=AAR31027.1;gbkey=CDS;gene=kleE;product=stable inheritance protein;protein_id=AAR31027.1;transl_table=11
+AY365053.1	Genbank	gene	5663	5899	.	-	.	ID=gene-kleA;Name=kleA;gbkey=Gene;gene=kleA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	5663	5899	.	-	0	ID=cds-AAR31028.1;Parent=gene-kleA;Dbxref=NCBI_GP:AAR31028.1;Name=AAR31028.1;gbkey=CDS;gene=kleA;product=stable inheritance protein;protein_id=AAR31028.1;transl_table=11
+AY365053.1	Genbank	gene	6057	6314	.	-	.	ID=gene-korC;Name=korC;gbkey=Gene;gene=korC;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	6057	6314	.	-	0	ID=cds-AAR31029.1;Parent=gene-korC;Dbxref=NCBI_GP:AAR31029.1;Name=AAR31029.1;gbkey=CDS;gene=korC;product=transcriptional repressor;protein_id=AAR31029.1;transl_table=11
+AY365053.1	Genbank	gene	6331	7539	.	-	.	ID=gene-klcB;Name=klcB;gbkey=Gene;gene=klcB;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	6331	7539	.	-	0	ID=cds-AAR31030.1;Parent=gene-klcB;Dbxref=NCBI_GP:AAR31030.1;Name=AAR31030.1;gbkey=CDS;gene=klcB;product=stable inheritance protein;protein_id=AAR31030.1;transl_table=11
+AY365053.1	Genbank	gene	7814	8242	.	-	.	ID=gene-klcA;Name=klcA;gbkey=Gene;gene=klcA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	7814	8242	.	-	0	ID=cds-AAR31031.1;Parent=gene-klcA;Dbxref=NCBI_GP:AAR31031.1;Name=AAR31031.1;gbkey=CDS;gene=klcA;product=stable inheritance protein;protein_id=AAR31031.1;transl_table=11
+AY365053.1	Genbank	gene	8415	8678	.	+	.	ID=gene-din;Name=din;gbkey=Gene;gene=din;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	8415	8678	.	+	0	ID=cds-AAR31032.1;Parent=gene-din;Dbxref=NCBI_GP:AAR31032.1;Name=AAR31032.1;gbkey=CDS;gene=din;product=DNA-damage-inducible protein;protein_id=AAR31032.1;transl_table=11
+AY365053.1	Genbank	CDS	8665	8946	.	+	0	ID=cds-AAR31105.1;Dbxref=NCBI_GP:AAR31105.1;Name=AAR31105.1;Note=similar to Xf2080 protein from pB10;gbkey=CDS;product=hypothetical protein;protein_id=AAR31105.1;transl_table=11
+AY365053.1	Genbank	sequence_feature	9574	9865	.	-	.	ID=id-AY365053.1:9574..9865;Note=CDS4 from pB4%3B interrupted by inverted repeat;end_range=9865,.;gbkey=misc_feature;partial=true
+AY365053.1	Genbank	mobile_genetic_element	9866	9975	.	+	.	ID=id-AY365053.1:9866..9975;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1071;rpt_type=inverted
+AY365053.1	Genbank	gene	10009	10376	.	-	.	ID=gene-tnpA;Name=tnpA;Note=tnpA from IS1071%3B interrupted by inverted repeat of Tn5504;end_range=10376,.;gbkey=Gene;gene=tnpA;gene_biotype=other;partial=true
+AY365053.1	Genbank	mobile_genetic_element	10376	16730	.	+	.	ID=id-AY365053.1:10376..16730;Note=putative composite type-II transposon%3B similar to tnpA-tnpR element%2C Tn5501 of pPGH1 plasmid;gbkey=mobile_element;mobile_element_type=transposon:Tn5504
+AY365053.1	Genbank	mobile_genetic_element	10376	10434	.	+	.	ID=id-AY365053.1:10376..10434;gbkey=mobile_element;mobile_element_type=transposon:Tn5504;rpt_type=inverted
+AY365053.1	Genbank	CDS	10464	12155	.	-	0	ID=cds-AAR31033.1;Dbxref=NCBI_GP:AAR31033.1;Name=AAR31033.1;gbkey=CDS;product=putative Tn5504 resolvase;protein_id=AAR31033.1;transl_table=11
+AY365053.1	Genbank	gene	12299	15325	.	+	.	ID=gene-tnpA-2;Name=tnpA;Note=tnpA for Tn5504;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	12299	15325	.	+	0	ID=cds-AAR31034.1;Parent=gene-tnpA-2;Dbxref=NCBI_GP:AAR31034.1;Name=AAR31034.1;gbkey=CDS;gene=tnpA;product=putative Tn5504 transposase;protein_id=AAR31034.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	16672	16730	.	+	.	ID=id-AY365053.1:16672..16730;gbkey=mobile_element;mobile_element_type=transposon:Tn5504;rpt_type=inverted
+AY365053.1	Genbank	gene	17688	19484	.	-	.	ID=gene-tfdBI;Name=tfdBI;gbkey=Gene;gene=tfdBI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	17688	19484	.	-	0	ID=cds-AAR31035.1;Parent=gene-tfdBI;Dbxref=NCBI_GP:AAR31035.1;Name=AAR31035.1;gbkey=CDS;gene=tfdBI;product=2%2C4-dichlorophenol hydroxylase;protein_id=AAR31035.1;transl_table=11
+AY365053.1	Genbank	gene	19829	20893	.	-	.	ID=gene-tfdFI;Name=tfdFI;gbkey=Gene;gene=tfdFI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	19829	20893	.	-	0	ID=cds-AAR31036.1;Parent=gene-tfdFI;Dbxref=NCBI_GP:AAR31036.1;Name=AAR31036.1;gbkey=CDS;gene=tfdFI;product=maleylacetate reductase;protein_id=AAR31036.1;transl_table=11
+AY365053.1	Genbank	gene	20890	21594	.	-	.	ID=gene-tfdEI;Name=tfdEI;gbkey=Gene;gene=tfdEI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	20890	21594	.	-	0	ID=cds-AAR31037.1;Parent=gene-tfdEI;Dbxref=NCBI_GP:AAR31037.1;Name=AAR31037.1;gbkey=CDS;gene=tfdEI;product=dienelactone hydrolase;protein_id=AAR31037.1;transl_table=11
+AY365053.1	Genbank	gene	21669	22781	.	-	.	ID=gene-tfdDI;Name=tfdDI;gbkey=Gene;gene=tfdDI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	21669	22781	.	-	0	ID=cds-AAR31038.1;Parent=gene-tfdDI;Dbxref=NCBI_GP:AAR31038.1;Name=AAR31038.1;gbkey=CDS;gene=tfdDI;product=chloromuconate cycloisomerase;protein_id=AAR31038.1;transl_table=11
+AY365053.1	Genbank	gene	22778	23545	.	-	.	ID=gene-tfdCI;Name=tfdCI;gbkey=Gene;gene=tfdCI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	22778	23545	.	-	0	ID=cds-AAR31039.1;Parent=gene-tfdCI;Dbxref=NCBI_GP:AAR31039.1;Name=AAR31039.1;gbkey=CDS;gene=tfdCI;product=chlorocatechol-1%2C2-dioxygenase;protein_id=AAR31039.1;transl_table=11
+AY365053.1	Genbank	gene	23741	24427	.	+	.	ID=gene-tfdT;Name=tfdT;gbkey=Gene;gene=tfdT;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	23741	24427	.	+	0	ID=cds-AAR31040.1;Parent=gene-tfdT;Dbxref=NCBI_GP:AAR31040.1;Name=AAR31040.1;Note=truncated by insertion sequence ISJP4;gbkey=CDS;gene=tfdT;product=transcriptional regulatory protein;protein_id=AAR31040.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	24371	24389	.	+	.	ID=id-tfdT;gbkey=mobile_element;mobile_element_type=insertion sequence:ISJP4;rpt_type=inverted
+AY365053.1	Genbank	gene	24489	25277	.	+	.	ID=gene-tnpA-3;Name=tnpA;Note=tnpA for ISJP4;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	24489	25277	.	+	0	ID=cds-AAR31041.1;Parent=gene-tnpA-3;Dbxref=NCBI_GP:AAR31041.1;Name=AAR31041.1;gbkey=CDS;gene=tnpA;product=ISJP4 transposase;protein_id=AAR31041.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	25269	25289	.	+	.	ID=id-AY365053.1:25269..25289;gbkey=mobile_element;mobile_element_type=insertion sequence:ISJP4;rpt_type=inverted
+AY365053.1	Genbank	gene	25286	26668	.	-	.	ID=gene-tfdK;Name=tfdK;gbkey=Gene;gene=tfdK;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	25286	26668	.	-	0	ID=cds-AAR31042.1;Parent=gene-tfdK;Dbxref=NCBI_GP:AAR31042.1;Name=AAR31042.1;gbkey=CDS;gene=tfdK;product=2%2C4-D transport protein;protein_id=AAR31042.1;transl_table=11
+AY365053.1	Genbank	gene	26765	28525	.	-	.	ID=gene-tfdBII;Name=tfdBII;gbkey=Gene;gene=tfdBII;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	26765	28525	.	-	0	ID=cds-AAR31043.1;Parent=gene-tfdBII;Dbxref=NCBI_GP:AAR31043.1;Name=AAR31043.1;gbkey=CDS;gene=tfdBII;product=2%2C4-dichlorophenol hydroxylase;protein_id=AAR31043.1;transl_table=11
+AY365053.1	Genbank	gene	28593	29672	.	-	.	ID=gene-tfdFII;Name=tfdFII;gbkey=Gene;gene=tfdFII;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	28593	29672	.	-	0	ID=cds-AAR31044.1;Parent=gene-tfdFII;Dbxref=NCBI_GP:AAR31044.1;Name=AAR31044.1;gbkey=CDS;gene=tfdFII;product=maleylacetate reductase;protein_id=AAR31044.1;transl_table=11
+AY365053.1	Genbank	gene	29674	30381	.	-	.	ID=gene-tfdEII;Name=tfdEII;gbkey=Gene;gene=tfdEII;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	29674	30381	.	-	0	ID=cds-AAR31045.1;Parent=gene-tfdEII;Dbxref=NCBI_GP:AAR31045.1;Name=AAR31045.1;gbkey=CDS;gene=tfdEII;product=dienelactone hydrolase;protein_id=AAR31045.1;transl_table=11
+AY365053.1	Genbank	gene	30403	31164	.	-	.	ID=gene-tfdCII;Name=tfdCII;gbkey=Gene;gene=tfdCII;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	30403	31164	.	-	0	ID=cds-AAR31046.1;Parent=gene-tfdCII;Dbxref=NCBI_GP:AAR31046.1;Name=AAR31046.1;gbkey=CDS;gene=tfdCII;product=chlorocatechol-1%2C2-dioxygenase;protein_id=AAR31046.1;transl_table=11
+AY365053.1	Genbank	gene	31209	32327	.	-	.	ID=gene-tfdDII;Name=tfdDII;gbkey=Gene;gene=tfdDII;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	31209	32327	.	-	0	ID=cds-AAR31047.1;Parent=gene-tfdDII;Dbxref=NCBI_GP:AAR31047.1;Name=AAR31047.1;gbkey=CDS;gene=tfdDII;product=chloromuconate cycloisomerase;protein_id=AAR31047.1;transl_table=11
+AY365053.1	Genbank	stem_loop	32523	86709	.	+	.	ID=id-AY365053.1:32523..86709;Note=tfdR-tfdS;gbkey=stem_loop
+AY365053.1	Genbank	gene	32523	36709	.	+	.	ID=gene-tfdR;Name=tfdR;gbkey=Gene;gene=tfdR;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	32523	33410	.	+	0	ID=cds-AAR31048.1;Parent=gene-tfdR;Dbxref=NCBI_GP:AAR31048.1;Name=AAR31048.1;gbkey=CDS;gene=tfdR;product=LysR-type transcriptional regulator;protein_id=AAR31048.1;transl_table=11
+AY365053.1	Genbank	CDS	33424	34770	.	+	0	ID=cds-AAR31049.1;Parent=gene-tfdR;Dbxref=NCBI_GP:AAR31049.1;Name=AAR31049.1;gbkey=CDS;gene=tfdR;product=putative enoyl-CoA hydratase;protein_id=AAR31049.1;transl_table=11
+AY365053.1	Genbank	CDS	34798	35637	.	-	0	ID=cds-AAR31050.1;Dbxref=NCBI_GP:AAR31050.1;Name=AAR31050.1;gbkey=CDS;product=putative transcription regulation protein;protein_id=AAR31050.1;transl_table=11
+AY365053.1	Genbank	gene	35822	36709	.	-	.	ID=gene-tfdS;Name=tfdS;gbkey=Gene;gene=tfdS;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	35822	36709	.	-	0	ID=cds-AAR31051.1;Parent=gene-tfdS;Dbxref=NCBI_GP:AAR31051.1;Name=AAR31051.1;gbkey=CDS;gene=tfdS;product=LysR-type transcriptional regulator;protein_id=AAR31051.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	36878	36896	.	+	.	ID=id-AY365053.1:36878..36896;gbkey=mobile_element;mobile_element_type=insertion sequence:ISJP4;rpt_type=inverted
+AY365053.1	Genbank	gene	36915	37778	.	+	.	ID=gene-tfdA;Name=tfdA;gbkey=Gene;gene=tfdA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	36915	37778	.	+	0	ID=cds-AAR31052.1;Parent=gene-tfdA;Dbxref=NCBI_GP:AAR31052.1;Name=AAR31052.1;gbkey=CDS;gene=tfdA;product=2%2C4-D / a-ketoglutarate dioxygenase;protein_id=AAR31052.1;transl_table=11
+AY365053.1	Genbank	CDS	37821	39362	.	+	0	ID=cds-AAR31053.1;Dbxref=NCBI_GP:AAR31053.1;Name=AAR31053.1;gbkey=CDS;product=putative long-chain-fatty-acid-CoA ligase;protein_id=AAR31053.1;transl_table=11
+AY365053.1	Genbank	CDS	39368	40534	.	+	0	ID=cds-AAR31054.1;Dbxref=NCBI_GP:AAR31054.1;Name=AAR31054.1;gbkey=CDS;product=putative thiolase;protein_id=AAR31054.1;transl_table=11
+AY365053.1	Genbank	CDS	40968	42044	.	-	0	ID=cds-AAR31055.1;Dbxref=NCBI_GP:AAR31055.1;Name=AAR31055.1;gbkey=CDS;product=putative vanillate O-demethylase oxygenase chain A;protein_id=AAR31055.1;transl_table=11
+AY365053.1	Genbank	CDS	42110	42889	.	+	0	ID=cds-AAR31056.1;Dbxref=NCBI_GP:AAR31056.1;Name=AAR31056.1;gbkey=CDS;product=putative transcription regulator;protein_id=AAR31056.1;transl_table=11
+AY365053.1	Genbank	CDS	42902	43738	.	+	0	ID=cds-AAR31057.1;Dbxref=NCBI_GP:AAR31057.1;Name=AAR31057.1;gbkey=CDS;product=putative transcription regulator;protein_id=AAR31057.1;transl_table=11
+AY365053.1	Genbank	CDS	43716	44489	.	+	0	ID=cds-AAR31058.1;Dbxref=NCBI_GP:AAR31058.1;Name=AAR31058.1;Note=short-chain dehydrogenase/reductase family;gbkey=CDS;product=putative oxidoreductase;protein_id=AAR31058.1;transl_table=11
+AY365053.1	Genbank	CDS	44556	45899	.	+	0	ID=cds-AAR31059.1;Dbxref=NCBI_GP:AAR31059.1;Name=AAR31059.1;gbkey=CDS;product=putative ABC transporter substrate-binding protein;protein_id=AAR31059.1;transl_table=11
+AY365053.1	Genbank	CDS	45914	46792	.	+	0	ID=cds-AAR31060.1;Dbxref=NCBI_GP:AAR31060.1;Name=AAR31060.1;gbkey=CDS;product=putative ABC transporter permease protein;protein_id=AAR31060.1;transl_table=11
+AY365053.1	Genbank	CDS	46809	47771	.	+	0	ID=cds-AAR31061.1;Dbxref=NCBI_GP:AAR31061.1;Name=AAR31061.1;gbkey=CDS;product=putative ABC transporter permease protein;protein_id=AAR31061.1;transl_table=11
+AY365053.1	Genbank	CDS	47768	48502	.	+	0	ID=cds-AAR31062.1;Dbxref=NCBI_GP:AAR31062.1;Name=AAR31062.1;gbkey=CDS;product=putative ABC transporter ATP-binding protein;protein_id=AAR31062.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	48472	48581	.	+	.	ID=id-AY365053.1:48472..48581;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1071;rpt_type=inverted
+AY365053.1	Genbank	gene	48617	51532	.	+	.	ID=gene-tnpA-4;Name=tnpA;Note=tnpA for IS1071;gbkey=Gene;gene=tnpA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	48617	51532	.	+	0	ID=cds-AAR31063.1;Parent=gene-tnpA-4;Dbxref=NCBI_GP:AAR31063.1;Name=AAR31063.1;gbkey=CDS;gene=tnpA;product=IS1071 transposase;protein_id=AAR31063.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	51566	51675	.	+	.	ID=id-AY365053.1:51566..51675;gbkey=mobile_element;mobile_element_type=insertion sequence:IS1071;rpt_type=inverted
+AY365053.1	Genbank	CDS	52097	52333	.	-	0	ID=cds-AAR31064.1;Dbxref=NCBI_GP:AAR31064.1;Name=AAR31064.1;gbkey=CDS;product=putative mercuric resistance protein MerE;protein_id=AAR31064.1;transl_table=11
+AY365053.1	Genbank	gene	52330	52695	.	-	.	ID=gene-merD;Name=merD;gbkey=Gene;gene=merD;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	52330	52695	.	-	0	ID=cds-AAR31065.1;Parent=gene-merD;Dbxref=NCBI_GP:AAR31065.1;Name=AAR31065.1;gbkey=CDS;gene=merD;product=mercury coregulator protein;protein_id=AAR31065.1;transl_table=11
+AY365053.1	Genbank	gene	52713	54398	.	-	.	ID=gene-merA;Name=merA;gbkey=Gene;gene=merA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	52713	54398	.	-	0	ID=cds-AAR31066.1;Parent=gene-merA;Dbxref=NCBI_GP:AAR31066.1;Name=AAR31066.1;gbkey=CDS;gene=merA;product=mercury reductase;protein_id=AAR31066.1;transl_table=11
+AY365053.1	Genbank	gene	54470	54745	.	-	.	ID=gene-merP;Name=merP;gbkey=Gene;gene=merP;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	54470	54745	.	-	0	ID=cds-AAR31067.1;Parent=gene-merP;Dbxref=NCBI_GP:AAR31067.1;Name=AAR31067.1;gbkey=CDS;gene=merP;product=periplasmic mercury ion binding protein;protein_id=AAR31067.1;transl_table=11
+AY365053.1	Genbank	gene	54758	55108	.	-	.	ID=gene-merT;Name=merT;gbkey=Gene;gene=merT;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	54758	55108	.	-	0	ID=cds-AAR31068.1;Parent=gene-merT;Dbxref=NCBI_GP:AAR31068.1;Name=AAR31068.1;gbkey=CDS;gene=merT;product=mercury ion transport protein;protein_id=AAR31068.1;transl_table=11
+AY365053.1	Genbank	gene	55180	55614	.	+	.	ID=gene-merR;Name=merR;gbkey=Gene;gene=merR;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	55180	55614	.	+	0	ID=cds-AAR31069.1;Parent=gene-merR;Dbxref=NCBI_GP:AAR31069.1;Name=AAR31069.1;gbkey=CDS;gene=merR;product=mercury regulatory protein;protein_id=AAR31069.1;transl_table=11
+AY365053.1	Genbank	mobile_genetic_element	55610	55647	.	+	.	ID=id-AY365053.1:55610..55647;gbkey=mobile_element;mobile_element_type=transposon:Tn501;rpt_type=inverted
+AY365053.1	Genbank	gene	55727	56947	.	-	.	ID=gene-trfA1;Name=trfA1;gbkey=Gene;gene=trfA1;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	55727	56947	.	-	0	ID=cds-AAR31070.1;Parent=gene-trfA1;Dbxref=NCBI_GP:AAR31070.1;Name=AAR31070.1;gbkey=CDS;gene=trfA1;product=transreplication factor;protein_id=AAR31070.1;transl_table=11
+AY365053.1	Genbank	gene	55727	56581	.	-	.	ID=gene-trfA2;Name=trfA2;gbkey=Gene;gene=trfA2;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	55727	56581	.	-	0	ID=cds-AAR31071.1;Parent=gene-trfA2;Dbxref=NCBI_GP:AAR31071.1;Name=AAR31071.1;gbkey=CDS;gene=trfA2;product=transreplication factor;protein_id=AAR31071.1;transl_table=11
+AY365053.1	Genbank	sequence_feature	55727	96366	.	+	.	ID=id-AY365053.1:1..87688;Note=IncP-1beta backbone;gbkey=misc_feature
+AY365053.1	Genbank	gene	56994	57335	.	-	.	ID=gene-ssb;Name=ssb;gbkey=Gene;gene=ssb;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	56994	57335	.	-	0	ID=cds-AAR31072.1;Parent=gene-ssb;Dbxref=NCBI_GP:AAR31072.1;Name=AAR31072.1;gbkey=CDS;gene=ssb;product=single-strand DNA binding protein;protein_id=AAR31072.1;transl_table=11
+AY365053.1	Genbank	gene	57571	57933	.	+	.	ID=gene-trbA;Name=trbA;gbkey=Gene;gene=trbA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	57571	57933	.	+	0	ID=cds-AAR31073.1;Parent=gene-trbA;Dbxref=NCBI_GP:AAR31073.1;Name=AAR31073.1;gbkey=CDS;gene=trbA;product=regulatory protein for mating pair formation;protein_id=AAR31073.1;transl_table=11
+AY365053.1	Genbank	gene	58243	59205	.	+	.	ID=gene-trbB;Name=trbB;gbkey=Gene;gene=trbB;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	58243	59205	.	+	0	ID=cds-AAR31074.1;Parent=gene-trbB;Dbxref=NCBI_GP:AAR31074.1;Name=AAR31074.1;gbkey=CDS;gene=trbB;product=ATPase autophosphorylase;protein_id=AAR31074.1;transl_table=11
+AY365053.1	Genbank	gene	59222	59686	.	+	.	ID=gene-trbC;Name=trbC;gbkey=Gene;gene=trbC;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	59222	59686	.	+	0	ID=cds-AAR31075.1;Parent=gene-trbC;Dbxref=NCBI_GP:AAR31075.1;Name=AAR31075.1;gbkey=CDS;gene=trbC;product=mating pair formation;protein_id=AAR31075.1;transl_table=11
+AY365053.1	Genbank	gene	59690	60001	.	+	.	ID=gene-trbD;Name=trbD;gbkey=Gene;gene=trbD;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	59690	60001	.	+	0	ID=cds-AAR31076.1;Parent=gene-trbD;Dbxref=NCBI_GP:AAR31076.1;Name=AAR31076.1;gbkey=CDS;gene=trbD;product=mating pair formation;protein_id=AAR31076.1;transl_table=11
+AY365053.1	Genbank	gene	59998	62556	.	+	.	ID=gene-trbE;Name=trbE;gbkey=Gene;gene=trbE;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	59998	62556	.	+	0	ID=cds-AAR31077.1;Parent=gene-trbE;Dbxref=NCBI_GP:AAR31077.1;Name=AAR31077.1;gbkey=CDS;gene=trbE;product=mating pair formation;protein_id=AAR31077.1;transl_table=11
+AY365053.1	Genbank	gene	62553	63335	.	+	.	ID=gene-trbF;Name=trbF;gbkey=Gene;gene=trbF;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	62553	63335	.	+	0	ID=cds-AAR31078.1;Parent=gene-trbF;Dbxref=NCBI_GP:AAR31078.1;Name=AAR31078.1;gbkey=CDS;gene=trbF;product=mating pair formation;protein_id=AAR31078.1;transl_table=11
+AY365053.1	Genbank	gene	63332	64252	.	+	.	ID=gene-trbG;Name=trbG;gbkey=Gene;gene=trbG;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	63332	64252	.	+	0	ID=cds-AAR31079.1;Parent=gene-trbG;Dbxref=NCBI_GP:AAR31079.1;Name=AAR31079.1;gbkey=CDS;gene=trbG;product=mating pair formation;protein_id=AAR31079.1;transl_table=11
+AY365053.1	Genbank	gene	64255	64743	.	+	.	ID=gene-trbH;Name=trbH;gbkey=Gene;gene=trbH;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	64255	64743	.	+	0	ID=cds-AAR31080.1;Parent=gene-trbH;Dbxref=NCBI_GP:AAR31080.1;Name=AAR31080.1;gbkey=CDS;gene=trbH;product=mating pair formation;protein_id=AAR31080.1;transl_table=11
+AY365053.1	Genbank	gene	64748	66169	.	+	.	ID=gene-trbI;Name=trbI;gbkey=Gene;gene=trbI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	64748	66169	.	+	0	ID=cds-AAR31081.1;Parent=gene-trbI;Dbxref=NCBI_GP:AAR31081.1;Name=AAR31081.1;gbkey=CDS;gene=trbI;product=mating pair formation;protein_id=AAR31081.1;transl_table=11
+AY365053.1	Genbank	gene	66190	66954	.	+	.	ID=gene-trbJ;Name=trbJ;gbkey=Gene;gene=trbJ;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	66190	66954	.	+	0	ID=cds-AAR31082.1;Parent=gene-trbJ;Dbxref=NCBI_GP:AAR31082.1;Name=AAR31082.1;gbkey=CDS;gene=trbJ;product=mating pair formation;protein_id=AAR31082.1;transl_table=11
+AY365053.1	Genbank	gene	66964	67191	.	+	.	ID=gene-trbK;Name=trbK;gbkey=Gene;gene=trbK;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	66964	67191	.	+	0	ID=cds-AAR31083.1;Parent=gene-trbK;Dbxref=NCBI_GP:AAR31083.1;Name=AAR31083.1;gbkey=CDS;gene=trbK;product=plasmid entry / exclusion;protein_id=AAR31083.1;transl_table=11
+AY365053.1	Genbank	gene	67202	68920	.	+	.	ID=gene-trbL;Name=trbL;gbkey=Gene;gene=trbL;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	67202	68920	.	+	0	ID=cds-AAR31084.1;Parent=gene-trbL;Dbxref=NCBI_GP:AAR31084.1;Name=AAR31084.1;gbkey=CDS;gene=trbL;product=DNA topoisomerase;protein_id=AAR31084.1;transl_table=11
+AY365053.1	Genbank	gene	68938	69525	.	+	.	ID=gene-trbM;Name=trbM;gbkey=Gene;gene=trbM;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	68938	69525	.	+	0	ID=cds-AAR31085.1;Parent=gene-trbM;Dbxref=NCBI_GP:AAR31085.1;Name=AAR31085.1;gbkey=CDS;gene=trbM;product=mating pair formation;protein_id=AAR31085.1;transl_table=11
+AY365053.1	Genbank	gene	69539	70174	.	+	.	ID=gene-trbN;Name=trbN;gbkey=Gene;gene=trbN;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	69539	70174	.	+	0	ID=cds-AAR31086.1;Parent=gene-trbN;Dbxref=NCBI_GP:AAR31086.1;Name=AAR31086.1;gbkey=CDS;gene=trbN;product=mating pair formation;protein_id=AAR31086.1;transl_table=11
+AY365053.1	Genbank	gene	70203	70469	.	+	.	ID=gene-trbO;Name=trbO;gbkey=Gene;gene=trbO;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	70203	70469	.	+	0	ID=cds-AAR31087.1;Parent=gene-trbO;Dbxref=NCBI_GP:AAR31087.1;Name=AAR31087.1;gbkey=CDS;gene=trbO;product=TrbO;protein_id=AAR31087.1;transl_table=11
+AY365053.1	Genbank	gene	70469	71167	.	+	.	ID=gene-trbP;Name=trbP;gbkey=Gene;gene=trbP;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	70469	71167	.	+	0	ID=cds-AAR31088.1;Parent=gene-trbP;Dbxref=NCBI_GP:AAR31088.1;Name=AAR31088.1;gbkey=CDS;gene=trbP;product=Trbp;protein_id=AAR31088.1;transl_table=11
+AY365053.1	Genbank	CDS	71183	71614	.	+	0	ID=cds-AAR31089.1;Dbxref=NCBI_GP:AAR31089.1;Name=AAR31089.1;gbkey=CDS;product=Upf30.5;protein_id=AAR31089.1;transl_table=11
+AY365053.1	Genbank	CDS	71769	72443	.	+	0	ID=cds-AAR31090.1;Dbxref=NCBI_GP:AAR31090.1;Name=AAR31090.1;gbkey=CDS;product=Upf31.0;protein_id=AAR31090.1;transl_table=11
+AY365053.1	Genbank	gene	72445	73104	.	-	.	ID=gene-parA;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	72445	73104	.	-	0	ID=cds-AAR31091.1;Parent=gene-parA;Dbxref=NCBI_GP:AAR31091.1;Name=AAR31091.1;gbkey=CDS;gene=parA;product=resolvase;protein_id=AAR31091.1;transl_table=11
+AY365053.1	Genbank	gene	73785	78131	.	-	.	ID=gene-traC2;Name=traC2;gbkey=Gene;gene=traC2;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	73785	78131	.	-	0	ID=cds-AAR31092.1;Parent=gene-traC2;Dbxref=NCBI_GP:AAR31092.1;Name=AAR31092.1;gbkey=CDS;gene=traC2;product=DNA replication primase;protein_id=AAR31092.1;transl_table=11
+AY365053.1	Genbank	gene	73785	77477	.	-	.	ID=gene-traC3;Name=traC3;gbkey=Gene;gene=traC3;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	73785	77477	.	-	0	ID=cds-AAR31093.1;Parent=gene-traC3;Dbxref=NCBI_GP:AAR31093.1;Name=AAR31093.1;gbkey=CDS;gene=traC3;product=DNA replication primase;protein_id=AAR31093.1;transl_table=11
+AY365053.1	Genbank	gene	73785	76028	.	-	.	ID=gene-traC4;Name=traC4;gbkey=Gene;gene=traC4;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	73785	76028	.	-	0	ID=cds-AAR31094.1;Parent=gene-traC4;Dbxref=NCBI_GP:AAR31094.1;Name=AAR31094.1;gbkey=CDS;gene=traC4;product=DNA replication primase;protein_id=AAR31094.1;transl_table=11
+AY365053.1	Genbank	gene	78135	78524	.	-	.	ID=gene-traD;Name=traD;gbkey=Gene;gene=traD;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	78135	78524	.	-	0	ID=cds-AAR31095.1;Parent=gene-traD;Dbxref=NCBI_GP:AAR31095.1;Name=AAR31095.1;gbkey=CDS;gene=traD;product=TraD;protein_id=AAR31095.1;transl_table=11
+AY365053.1	Genbank	gene	78546	80609	.	-	.	ID=gene-traE;Name=traE;gbkey=Gene;gene=traE;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	78546	80609	.	-	0	ID=cds-AAR31096.1;Parent=gene-traE;Dbxref=NCBI_GP:AAR31096.1;Name=AAR31096.1;gbkey=CDS;gene=traE;product=DNA topoisomerase;protein_id=AAR31096.1;transl_table=11
+AY365053.1	Genbank	gene	80621	83067	.	-	.	ID=gene-traF;Name=traF;gbkey=Gene;gene=traF;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	80621	81157	.	-	0	ID=cds-AAR31097.1;Parent=gene-traF;Dbxref=NCBI_GP:AAR31097.1;Name=AAR31097.1;gbkey=CDS;gene=traF;product=maturation peptidase;protein_id=AAR31097.1;transl_table=11
+AY365053.1	Genbank	gene	81154	83067	.	-	.	ID=gene-traG;Name=traG;gbkey=Gene;gene=traG;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	81154	83067	.	-	0	ID=cds-AAR31098.1;Parent=gene-traG;Dbxref=NCBI_GP:AAR31098.1;Name=AAR31098.1;gbkey=CDS;gene=traG;product=DNA transport protein;protein_id=AAR31098.1;transl_table=11
+AY365053.1	Genbank	gene	83064	85304	.	-	.	ID=gene-traI;Name=traI;gbkey=Gene;gene=traI;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	83064	85304	.	-	0	ID=cds-AAR31100.1;Parent=gene-traI;Dbxref=NCBI_GP:AAR31100.1;Name=AAR31100.1;gbkey=CDS;gene=traI;product=relaxosome stabilization protein;protein_id=AAR31100.1;transl_table=11
+AY365053.1	Genbank	gene	83366	83758	.	-	.	ID=gene-traH;Name=traH;gbkey=Gene;gene=traH;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	83366	83758	.	-	0	ID=cds-AAR31099.1;Parent=gene-traH;Dbxref=NCBI_GP:AAR31099.1;Name=AAR31099.1;gbkey=CDS;gene=traH;product=DNA relaxase;protein_id=AAR31099.1;transl_table=11
+AY365053.1	Genbank	gene	85339	85656	.	-	.	ID=gene-traJ;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	85339	85656	.	-	0	ID=cds-AAR31101.1;Parent=gene-traJ;Dbxref=NCBI_GP:AAR31101.1;Name=AAR31101.1;gbkey=CDS;gene=traJ;product=oriT binding protein;protein_id=AAR31101.1;transl_table=11
+AY365053.1	Genbank	sequence_feature	85790	85881	.	+	.	ID=id-AY365053.1:85790..85881;Note=relaxation region oriT;gbkey=misc_feature
+AY365053.1	Genbank	gene	86087	86485	.	+	.	ID=gene-traK;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	86087	86485	.	+	0	ID=cds-AAR31102.1;Parent=gene-traK;Dbxref=NCBI_GP:AAR31102.1;Name=AAR31102.1;gbkey=CDS;gene=traK;product=oriT binding protein;protein_id=AAR31102.1;transl_table=11
+AY365053.1	Genbank	gene	86485	87210	.	+	.	ID=gene-traL;Name=traL;gbkey=Gene;gene=traL;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	86485	87210	.	+	0	ID=cds-AAR31103.1;Parent=gene-traL;Dbxref=NCBI_GP:AAR31103.1;Name=AAR31103.1;gbkey=CDS;gene=traL;product=transfer origin protein;protein_id=AAR31103.1;transl_table=11
+AY365053.1	Genbank	gene	87210	87650	.	+	.	ID=gene-traM;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding
+AY365053.1	Genbank	CDS	87210	87650	.	+	0	ID=cds-AAR31104.1;Parent=gene-traM;Dbxref=NCBI_GP:AAR31104.1;Name=AAR31104.1;gbkey=CDS;gene=traM;product=essential transfer protein;protein_id=AAR31104.1;transl_table=11
+

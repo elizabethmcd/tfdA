@@ -1,3 +1,4 @@
+*.icloud
 data/rps_db/
 data/rawData/*
 tfdA.Rproj

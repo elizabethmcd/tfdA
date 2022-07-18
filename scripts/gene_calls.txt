@@ -1,1 +1,0 @@
-gene_callers_id	contig	start	stop	direction	partial	source	version
