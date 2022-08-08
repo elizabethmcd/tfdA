@@ -23,9 +23,9 @@ bar_env <- environment %>% ggplot(aes(x=reorder(environment, n), y=n)) + geom_co
 env_pretty <- bar_env + 
   scale_x_discrete(breaks=c("isolate", "marine", "plant_associated", "terrestrial", "human_associated", "freshwater", "engineered", "wetlands", "subsurface", "symbiont"), labels=c("Isolate", "Marine", "Plant Associated", "Terrestrial", "Human Associated", "Freshwater", "Engineered System", "Wetlands", "Subsurface", "Symbiont")) + 
   ylab("Number of Genomes") + 
-  xlab("Source") + 
+  xlab("Source") +
   theme_pubr() + 
-  theme(axis.title.y=element_text(face="bold", size=15), axis.title.x=element_text(face="bold", size=15), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=12), axis.text.y=element_text(size=12))
+  theme(axis.title.y=element_text(face="bold", size=17, family="sans"), axis.title.x=element_text(face="bold", size=17), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=15), axis.text.y=element_text(size=15))
 
 env_pretty
 
@@ -39,7 +39,7 @@ phyla_pretty <- bar_phyla +
   ylab("Number of Genomes") + 
   xlab("Phylum") + 
   theme_pubr() + 
-  theme(axis.title.y=element_text(face="bold", size=15), axis.title.x=element_text(face="bold", size=15), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=12), axis.text.y=element_text(size=12))
+  theme(axis.title.y=element_text(face="bold", size=17), axis.title.x=element_text(face="bold", size=17), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=15), axis.text.y=element_text(size=15))
 
 phyla_pretty
 
