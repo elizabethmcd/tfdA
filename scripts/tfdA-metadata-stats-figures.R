@@ -21,11 +21,11 @@ group = metadata %>%
 bar_env <- environment %>% ggplot(aes(x=reorder(environment, n), y=n)) + geom_col(fill="#19B4C3") + coord_flip() + scale_y_continuous(limits=c(0,250), expand = c(0, 0)) + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),panel.background = element_blank())
 
 env_pretty <- bar_env + 
-  scale_x_discrete(breaks=c("isolate", "marine", "plant_associated", "terrestrial", "human_associated", "freshwater", "engineered", "wetlands", "subsurface", "symbiont"), labels=c("Isolate", "Marine", "Plant Associated", "Terrestrial", "Human Associated", "Freswhater", "Engineered System", "Wetlands", "Subsurface", "Symbiont")) + 
+  scale_x_discrete(breaks=c("isolate", "marine", "plant_associated", "terrestrial", "human_associated", "freshwater", "engineered", "wetlands", "subsurface", "symbiont"), labels=c("Isolate", "Marine", "Plant Associated", "Terrestrial", "Human Associated", "Freshwater", "Engineered System", "Wetlands", "Subsurface", "Symbiont")) + 
   ylab("Number of Genomes") + 
   xlab("Source") + 
   theme_pubr() + 
-  theme(axis.title.y=element_text(face="bold"), axis.title.x=element_text(face="bold"), plot.margin = margin(10, 50, 10, 10))
+  theme(axis.title.y=element_text(face="bold", size=15), axis.title.x=element_text(face="bold", size=15), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=12), axis.text.y=element_text(size=12))
 
 env_pretty
 
@@ -37,9 +37,9 @@ bar_phyla
 
 phyla_pretty <- bar_phyla + 
   ylab("Number of Genomes") + 
-  xlab("Phyla") + 
+  xlab("Phylum") + 
   theme_pubr() + 
-  theme(axis.title.y=element_text(face="bold"), axis.title.x=element_text(face="bold"), plot.margin = margin(10, 50, 10, 10))
+  theme(axis.title.y=element_text(face="bold", size=15), axis.title.x=element_text(face="bold", size=15), plot.margin = margin(10, 50, 10, 10), axis.text.x=element_text(size=12), axis.text.y=element_text(size=12))
 
 phyla_pretty
 
@@ -47,5 +47,7 @@ ggsave(plot=bar_phyla, filename="figs/2021-02-26-tfdA-phyla-plot.png", height=10
 
 # Arrange in a grid 
 tfdA_grid <- ggarrange(env_pretty, phyla_pretty, ncol=1, align=c("v"))
+
+tfdA_grid
 
 ggsave("figs/tfdA_metadata_grid.png", tfdA_grid, height=30, width=20, units=c("cm"))
